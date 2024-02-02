@@ -1,4 +1,4 @@
 # Weather_APP
 weather app using python 
 <br>
-Author-  Shashank S Shetty
+Author-  Shashank S Shetty(PES)(Student)
